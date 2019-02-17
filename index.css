@@ -1,0 +1,48 @@
+body{
+background-repeat: no-repeat;
+background-size: 100% 1000px;
+}
+.room{
+	max-width: 100%;
+	display: block;
+	height: auto;
+	text-align: center;
+	margin: 200px 400px;
+
+}
+#reg{
+	width: 100%;
+	background-color:  #f7ffe6;
+	opacity: 0.8;
+	padding: 50px 0px;
+}
+#field{
+	width: 250px;
+	padding: 10px;
+	border-radius: 50px;
+}
+#f{ 
+	padding: 10px;
+	border-radius: 50px;	
+}
+#r{	width: 150px;
+	padding: 10px;
+	border-radius: 50px;	
+}
+h1{
+	font-family:  sans-serif;
+}
+#button{
+	background-color: #FFD700;
+	width: 125px;
+	height: 40px;
+
+	font-size: 18px;
+border-radius: 20px;
+
+}
+.container{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
