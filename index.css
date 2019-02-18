@@ -47,9 +47,9 @@ border-radius: 20px;
 	align-items: center;
 }
 #button:hover{
-	background-color: blue;
-width: 135px;
-height: 45px;
-font-size: 18px;
-border-radius: 20px;
+	background-color: #0066ff;
+	width: 135px;
+	height: 45px;
+	font-size: 18px;
+	border-radius: 20px;
 }
