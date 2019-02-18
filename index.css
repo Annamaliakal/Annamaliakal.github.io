@@ -46,3 +46,10 @@ border-radius: 20px;
 	justify-content: space-around;
 	align-items: center;
 }
+#button:hover{
+	background-color: blue;
+width: 135px;
+height: 45px;
+font-size: 18px;
+border-radius: 20px;
+}
